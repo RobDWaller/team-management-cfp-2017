@@ -3,7 +3,7 @@
 ## Elevator Pitch
 > You have 300 characters to sell your talk. This is known as the "elevator pitch". Make it as exciting and enticing as possible.
 
-Management can be a difficult area for many developers to move into as it is a very different role to programming. Based on my learnings and those from sport and history I'd like to share some tips and pointers for those who wish to be come managers and succeed at running tech teams.
+Management is a difficult area for many developers to move into as it is very different to programming. Based on my learnings as a tech lead, running a business and teachings from sport and history I wish to share my tips for those who want to become managers and succeed at running tech teams.
 
 ## Description
 > You should make the description of your talk as compelling and exciting as possible. Remember, you're selling both the organizers of the events to select your talk, as well as trying to convince attendees your talk is the one they should see.
@@ -44,13 +44,13 @@ Before Breakthrough I had a period contracting and running my own business. I ha
 
 Overall I believe I have a great deal of insight and guidance to offer developers and aspiring technical managers. Not just based on my current role but also my previous business experience. I would love the opportunity to share my knowledge and experience with a wider audience.
 
-You can find out more about me via the following resources, you'll note I also have a degree in History which I hope shows I'm a well rounded individual. 
+You can find out more about me via the following resources, you'll note I also have a degree in History which I hope shows I'm a well rounded individual.
 
-[Twitter: @RobDWaller](https://twitter.com/RobDWaller)
-[GitHub: RobDWaller](https://github.com/RobDWaller)
-[My Website](http://rbrt.wllr.info)
-[My CV](http://rbrt.wllr.info/cv.pdf)
-[Mashable Article](http://mashable.com/2012/08/22/twitter-facebook-fake-followers/#xnoXNq_g6OqQ)
+- [Twitter: @RobDWaller](https://twitter.com/RobDWaller)
+- [GitHub: RobDWaller](https://github.com/RobDWaller)
+- [My Website](http://rbrt.wllr.info)
+- [My CV](http://rbrt.wllr.info/cv.pdf)
+- [Mashable Article](http://mashable.com/2012/08/22/twitter-facebook-fake-followers/#xnoXNq_g6OqQ)
 
 ## Tags
 PHP, JavaScript, Management, Manager, Mentoring, Leadership, Hiring, Interviews, Communication, HR, Technology, CTO, Head of Tech, Team Lead
